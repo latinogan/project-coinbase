@@ -234,4 +234,34 @@ body {
   margin: 0 1rem;
 }
 
+.sec-footer-cta {
+  background-color: #f4f8fe;
+  padding: 5rem;
+  margin-top: 50px;
+  background-image: url("../assets/img/bg.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
+.sec-footer-cta .footer-cta {
+  width: 50%;
+}
+.sec-footer-cta .footer-cta .cta-title {
+  font-size: 2rem;
+}
+.sec-footer-cta .footer-cta .cta-description {
+  font-size: 1.1rem;
+}
+
+.sec-final {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.sec-final .intro-rr .final-p {
+  font-weight: bold;
+  border: 2px solid rgb(41, 10, 165);
+  padding: 10px;
+}
+
 /*# sourceMappingURL=styles.css.map */

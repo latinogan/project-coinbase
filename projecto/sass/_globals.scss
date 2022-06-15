@@ -148,3 +148,35 @@ body {
         }
     }
 }
+.sec-footer-cta {
+    background-color: components.$color-footer;
+    padding: 5rem;
+    margin-top:50px;
+    background-image: url("../assets/img/bg.png") ;
+    background-repeat:no-repeat;
+    background-position:100%;
+    .footer-cta {
+        width:50%;
+        .cta-title {
+            font-size: 2rem;
+        }
+        .cta-description {
+            font-size:1.1rem;
+        }
+    }
+}
+.sec-final{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:20px;
+    .intro-rr {
+        .final-p {
+            font-weight:bold;
+            border: 2px solid rgb(41, 10, 165);
+            padding: 10px;
+            
+
+        }
+    }
+}
