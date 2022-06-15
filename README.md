@@ -25,8 +25,6 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roger-smith-a35738179/)
 
 
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
