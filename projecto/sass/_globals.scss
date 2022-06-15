@@ -110,3 +110,24 @@ body {
         margin: 0;
     }
 }
+.sec-kpis {
+    background-color: components.$color-main;
+    color:white;
+    padding:4rem;
+    width:100%;
+
+    .kpi {
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+
+        .number {
+            font-size: 3rem;
+            font-weight: 600;
+        }
+        .desc {
+            font-size: 0.9 rem;
+            color: #ffffffaa;
+        }
+    }
+}
